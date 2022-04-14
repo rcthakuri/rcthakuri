@@ -6,7 +6,7 @@ currently, i am learning AngularJs and jumping to full stack develper with MEAN 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
-- 💼 any freelance work? do reach, [email](mailto:) :)
+- 💼 any freelance work? do reach, [email](mailto:rcsthakuri2016@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
