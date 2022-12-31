@@ -4,7 +4,7 @@ hi, i'm [Ramchandra Shahi Thakuri](https://www.rcthakuri.com.np), a passionate s
 
 currently, i am learning react, nextjs, design principle and practising this for fronted stack. 
 
-i hands on  have expereince on AngularJs and Python, so you can consult me anything on these stack.
+i have hands on expereince on AngularJs and Python, so you can consult me anything on these stack.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
