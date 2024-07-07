@@ -2,9 +2,9 @@
 
 hi, i'm [Ramchandra Shahi Thakuri](https://www.rcthakuri.com.np), a passionate self-taught python developer and a freelance software engineer from nepal. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-currently, i am learning react, nextjs, design principle and practising this for fronted stack. 
+currently, i am learning/working on react, django, design principle and practising this for fulllstack. 
 
-i have hands on expereince on AngularJs and Python, so you can consult me anything on these stack.
+i have hands on expereince on django/react as fullstack dev, so you can consult me anything on this stack.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
