@@ -1,6 +1,6 @@
 ### $Hi there, ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-hi, i'm [Ramchandra Shahi Thakuri]([https://www.rcthakuri.com.np](https://www.linkedin.com/in/er-ramchandra-shahi-thakuri-560144170/), a passionate self-taught fullstack developer and a freelance software engineer from nepal. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Ramchandra Shahi Thakuri](https://www.rcthakuri.com.np](https://www.linkedin.com/in/er-ramchandra-shahi-thakuri-560144170/), a passionate self-taught fullstack developer and a freelance software engineer from nepal. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 currently, i am learning/working on react, django, design principle and practising this for fulllstack. 
 
